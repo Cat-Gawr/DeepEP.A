@@ -1,6 +1,6 @@
 # DeepEP.A
 -------------------------------------------
-Repoisty Forkato dal Reposity di X-Boost
+Repoisty Forkato dal Reposity di X-Boost...ormai è solo un lontano ricordo,cavolo
 
 
 <h4>progetto sospeso</h4>
